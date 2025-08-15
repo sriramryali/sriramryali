@@ -21,11 +21,12 @@
 ## Projects
 
 **[Verilog HDLBits Solutions](https://github.com/sriramryali/verilog-hdlbits-solutions)**  
+
 My solutions to digital design problems - organized and documented
 
 ## Currently Learning
 
-Verilog hardware description language and digital circuit design
+Verilog hardware description language, Computer architecture and digital circuit design
 
 <div align="center">
 
