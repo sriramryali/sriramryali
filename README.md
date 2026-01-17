@@ -7,7 +7,7 @@
 ## What I'm Into
 
 - Digital Design & Verilog HDL
-- FPGA Development  
+- Computer Architecture 
 - Hardware Programming
 
 ## Languages & Tools
